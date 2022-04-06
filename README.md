@@ -4,7 +4,8 @@
 
 > TLDR: dataset was generated from vector drawings ("[Quick, Draw](https://github.com/googlecreativelab/quickdraw-dataset)" and "[Creative Birds](https://songweige.github.io/projects/creative_sketech_generation/home.html)"
 
-Subset: [google drive link](https://drive.google.com/file/d/1KQrLGW82Fk_bYuB8uC0DzSWafDj97gLn/view?usp=sharing)
+Subset: (500 MB, 40 000 images) [google drive link](https://drive.google.com/file/d/1KQrLGW82Fk_bYuB8uC0DzSWafDj97gLn/view?usp=sharing)
+Full dataset: (14 GB, 927 000 images) [onedrive link](https://udemontreal-my.sharepoint.com/:u:/g/personal/ivan_puhachov_umontreal_ca/EVGygX7l-bBCjwANyPgcIB4BNdzMytMBR8-JcR4J4GyzQw?e=OhA2QD)
 
 ## Processing ndjson
 See `generate_quickdraw.py` and `generate_quickdraw_svg.py`. Given path to ndjson, it dumps corresponding `svg` file and `npz` keypoints data to the output folder.
