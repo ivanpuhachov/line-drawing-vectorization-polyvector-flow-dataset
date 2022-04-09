@@ -38,3 +38,14 @@ See `generate_quickdraw.py` and `generate_quickdraw_svg.py`. Given path to ndjso
 4. Observe the progress in Console (top right)
 ![Example](/instructions/4.png)
 
+
+##### Citation
+```
+@article{Puhachov2021KeypointPolyvector,
+    author = {Ivan Puhachov and William Neveu and Edward Chien and Mikhail Bessmeltsev},
+    title = {Keypoint-Driven Line Drawing Vectorization via PolyVector Flow},
+    journal = {ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia)},
+    volume = {40}, number = {6}, year = {2021}, month = dec,
+    doi = {10.1145/3478513.3480529}
+}
+```
